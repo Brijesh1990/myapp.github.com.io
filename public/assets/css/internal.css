@@ -1,0 +1,18 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+}
+.app
+{
+    width: 50%;
+    height: auto;
+    margin: auto;
+    padding: 25px;
+    margin-top: 5%;
+}
+.app  > p 
+{
+    color: blue !important;
+    font-size: 20px !important;
+} 
